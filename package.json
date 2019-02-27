@@ -1,0 +1,18 @@
+{
+  "name": "webworker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example_1": "http-server 1_ping-pong",
+    "example_2": "http-server 2_ping-pong-subworkers",
+    "example_3": "http-server 3_lodash",
+    "example_4": "http-server 4_sorter",
+    "example_5": "http-server 5_shared"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
