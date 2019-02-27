@@ -1,4 +1,4 @@
-# Web Worker examples
+# Web Workers examples
 
 Find the complete post in medium [https://medium.com/clockwork-nl/web-workers-demystified-fb4c84bd566c](https://medium.com/clockwork-nl/web-workers-demystified-fb4c84bd566c)
 
